@@ -4,4 +4,6 @@
 family = {:marc => 52, :alexis: => 47; :carissa => 36}
 
 def key_for_min_value(name_hash)
-  
+  lowest_key
+  lowest_numerator
+end
